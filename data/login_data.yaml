@@ -1,0 +1,6 @@
+- case_name: "获取存在文章"
+  post_id: 1
+  expected_status: 200
+- case_name: "获取不存在文章"
+  post_id: 9999
+  expected_status: 404
