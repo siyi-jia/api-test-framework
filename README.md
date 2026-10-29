@@ -20,4 +20,4 @@
 └── README.md
 
 
-![GitHub Actions 成功截图](images/success.png)
+![运行成功截图](images/success.jpg)
