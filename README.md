@@ -18,6 +18,6 @@
 ├── data/           # 数据驱动（YAML）
 ├── .github/workflows/ # CI流水线配置
 └── README.md
+```
 
-
-<img width="958" height="1023" alt="success" src="https://github.com/user-attachments/assets/3200b5de-c668-46ed-917b-c07530941c74" />
+![运行成功截图](https://github.com/user-attachments/assets/3200b5de-c668-46ed-917b-c07530941c74)
